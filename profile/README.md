@@ -16,7 +16,7 @@ Get started with Nimbus by exploring our comprehensive [Documentation](https://w
 
 ## Get Started
 
-Ready to experience the power of Nimbus? Visit our website [here](https://www.getnimbus.bot) to sign up for a free trial or schedule a demo today!
+Ready to experience the power of Nimbus? Visit our website [here](https://www.getnimbus.bot) to sign up.
 
 ---
 

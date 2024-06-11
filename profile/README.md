@@ -15,7 +15,7 @@ Stay updated with the latest news, features, and insights from the Nimbus team b
 Get started with Nimbus by exploring our comprehensive [Documentation](https://www.docs.getnimbus.bot). Whether you're a beginner or an advanced user, our documentation has everything you need to know to make the most out of Nimbus.
 
 ## Bugs or Suggestions
-head over to [Feedback](https://github.com/nimbusapp-bot/feedback) and write up an issue!
+Head over to [Feedback](https://github.com/nimbusapp-bot/feedback) and write up an issue.
 
 ## Get Started
 
